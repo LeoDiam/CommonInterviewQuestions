@@ -1,3 +1,5 @@
+package com.leo.smartQ;
+
 import java.util.Scanner;
 //Swapping two integers without using a temporary variable.
 public class SwapTwoIntegers {

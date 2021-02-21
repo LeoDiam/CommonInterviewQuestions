@@ -1,3 +1,5 @@
+package com.leo.arrays;
+
 public class findMissingNumber {
     // Function to find missing number
     static int getMissingNo(int a[]) {

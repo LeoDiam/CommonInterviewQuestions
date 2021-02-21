@@ -1,3 +1,5 @@
+package com.leo.arrays;
+
 public class findDuplicateNumber {
     public static void main(String[] args) {
 
